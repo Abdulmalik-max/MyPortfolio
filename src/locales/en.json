@@ -1,0 +1,80 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "firstName": "Abdul Malik",
+    "lastName": "Al-Madhji",
+    "description": "I build scalable full-stack applications and integrate intelligent AI capabilities to solve complex, real-world problems. From designing robust APIs and databases to crafting intuitive frontends, I focus on engineering reliable and innovative software.",
+    "cta": "View My Works",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "title1": "About",
+    "title2": "Me",
+    "subtitle": "Passionate Web Developer & Tech",
+    "exp1": "5 Years Work Experience",
+    "exp2": "Django and PostgresSQL and Model Developments",
+    "contactBtn": "Get In Touch",
+    "cvBtn": "Get My CV",
+    "card1Title": "Web Development",
+    "card1Desc": "Creating responsive websites and web applications with modern frameworks.",
+    "card2Title": "AI Engineering",
+    "card2Desc": "Creating ML Models and AI Agents.",
+    "card3Title": "Projects Management",
+    "card3Desc": "Designing and Analysing Information Systems."
+  },
+  "skills": {
+    "title1": "My",
+    "title2": "Skills",
+    "categories": {
+      "all": "All",
+      "front-end": "Front-end",
+      "back-end": "Back-end",
+      "tools": "Tools"
+    }
+  },
+  "projects": {
+    "title1": "Featured",
+    "title2": "Projects",
+    "description": "Here are some of my recent projects. Each project was carefully created with attention to details, performance, and user experience.",
+    "items": {
+      "project1": {
+        "title": "Mathhaj Store",
+        "description": "Online Video Games Store"
+      },
+      "project2": {
+        "title": "Real Estate Management System",
+        "description": "A mobile application designed for buying, selling, and renting all types of real estate."
+      }
+    },
+    "links": {
+      "demo": "Live Demo",
+      "source": "Source"
+    },
+    "githubBtn": "Check My GitHub"
+  },
+  "contact": {
+    "title1": "Get In",
+    "title2": "Touch",
+    "description": "Have a project in mind or want to collaborate? Feel free to reach out. I'm always open to get new opportunities.",
+    "infoTitle": "Contact Information",
+    "email": "Email",
+    "phone": "Phone Number",
+    "whatsapp": "Whatsapp",
+    "socialTitle": "Connect With Me",
+    "formTitle": "Send a Message",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Mohammad Ali ....",
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "example@gmail.com",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Hello, I'd like to talk about....",
+    "submitBtn": "Send Message"
+  }
+}
